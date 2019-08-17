@@ -1,0 +1,19 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "Find a friend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seliades/Friend_Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seliades/Friend_Finder/issues"
+  },
+  "homepage": "https://github.com/seliades/Friend_Finder#readme"
+}
